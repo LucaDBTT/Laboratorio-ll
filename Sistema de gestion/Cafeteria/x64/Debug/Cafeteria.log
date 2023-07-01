@@ -1,0 +1,4 @@
+﻿  Archivo_Producto.cpp
+C:\Users\Nazuti\Desktop\Defensa\Cafeteria\rlutil.h(577,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Nazuti\Desktop\Defensa\Cafeteria\Archivo_Producto.cpp(294,98): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Cafeteria.vcxproj -> C:\Users\Nazuti\Desktop\Defensa\Cafeteria\x64\Debug\Cafeteria.exe
