@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1684280746 source:c:\users\nazuti\desktop\parcial\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1684359900 c:\users\nazuti\desktop\parcial\agenciatransito\agente.h
+	<string>
+
+1684280862 source:c:\users\nazuti\desktop\parcial\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1684280914 c:\users\nazuti\desktop\parcial\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1683846750 source:c:\users\nazuti\desktop\parcial\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1684279156 c:\users\nazuti\desktop\parcial\agenciatransito\fecha.h
+	<string>
+
+1685660673 source:c:\users\nazuti\desktop\parcial\agenciatransito\main.cpp
+	<iostream>
+	"Parcial.h"
+
+1684279694 source:c:\users\nazuti\desktop\parcial\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1684280324 c:\users\nazuti\desktop\parcial\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1684279680 source:c:\users\nazuti\desktop\parcial\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1684278570 c:\users\nazuti\desktop\parcial\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1684279772 source:c:\users\nazuti\desktop\parcial\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1684278992 c:\users\nazuti\desktop\parcial\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1685661695 source:c:\users\nazuti\desktop\parcial\agenciatransito\parcial.cpp
+	<iostream>
+	"Parcial.h"
+	"MultaArchivo.h"
+	"AgenteArchivo.h"
+
+1685653446 c:\users\nazuti\desktop\parcial\agenciatransito\parcial.h
+
+1684280746 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1684359900 c:\users\nazuti\desktop\parciallabii\agenciatransito\agente.h
+	<string>
+
+1684280862 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1684280914 c:\users\nazuti\desktop\parciallabii\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1683846750 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1684279156 c:\users\nazuti\desktop\parciallabii\agenciatransito\fecha.h
+	<string>
+
+1685660673 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\main.cpp
+	<iostream>
+	"Parcial.h"
+
+1685653446 c:\users\nazuti\desktop\parciallabii\agenciatransito\parcial.h
+
+1684279694 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1684280324 c:\users\nazuti\desktop\parciallabii\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1684279680 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1684278570 c:\users\nazuti\desktop\parciallabii\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1684279772 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1684278992 c:\users\nazuti\desktop\parciallabii\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1685828729 source:c:\users\nazuti\desktop\parciallabii\agenciatransito\parcial.cpp
+	<iostream>
+	"Parcial.h"
+	"MultaArchivo.h"
+	"AgenteArchivo.h"
+
